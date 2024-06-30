@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad-Talha33
+- 👋 Hi, I’m @Muhammad-Talha
 - 👀 I’m interested in [AI, generative AI, coding, and developing websites]
 - 🌱 I’m currently learning TypeScript.
 - 📫 You can reach out to me via email at synthsensations777@gmail.com or through my Instagram handle: [@synthsensations].
