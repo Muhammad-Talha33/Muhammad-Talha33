@@ -1,10 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Hi+there+👋%2C+I'm+Muhammad+Talha;Front-End+Developer+%7C+Tech+Explorer;AI+Enthusiast+%7C+Python+Learner"
-    alt="Typing SVG"
-  />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Talha;Front-End+Developer+%7C+Tech+Explorer+%7C;AI+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
