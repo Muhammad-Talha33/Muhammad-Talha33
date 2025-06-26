@@ -63,4 +63,7 @@
 ---
 
 ### 🕹️ Contribution Graph
+
+<div align="center>
 ![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Talha33&theme=dark)
+</div>
