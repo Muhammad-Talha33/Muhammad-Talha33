@@ -39,7 +39,7 @@
 - 📫 Email: **synthsensations777@gmail.com**
 - 🌐 Instagram: [**@synthsensations**](https://instagram.com/synthsensations)
 - 🙋‍♂️ Pronouns: **He/Him**
-- 🤝 Open to internships, collaborations, and exciting projects
+- 🤝 Open to internships, full-time job opportunities, freelance projects, and exciting collaborations.
 
 ---
 
