@@ -63,8 +63,4 @@
 ---
 
 ### 🕹️ Contribution Graph
-### 🕹️ Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Muhammad-Talha33/Muhammad-Talha33/output/pacman-contribution-graph.svg" alt="GitHub Contribution Graph" />
-</div>
+![GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Talha33&theme=dark)
