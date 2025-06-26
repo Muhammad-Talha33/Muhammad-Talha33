@@ -1,8 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Muhammad Talha</h1>
+<!-- Profile README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Talha;Front-End+Developer+%7C+Tech+Explorer;AI+Enthusiast+%7C+Python+Learner" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  Passionate about <strong>AI</strong>, <strong>Generative Art</strong>, and <strong>Web Development</strong>.
-  Currently exploring the world of <strong>Python</strong> and enhancing my full-stack skills.
+  A passionate <strong>Front-End Developer</strong> focused on building clean, responsive, and user-friendly web interfaces.<br />
+  Exploring the intersection of <strong>AI</strong>, <strong>creativity</strong>, and <strong>technology</strong>.
 </p>
 
 ---
@@ -29,22 +33,23 @@
 
 ### 👨‍💻 About Me
 
-- 🎨 Digital Creator @ [@synthsensations](https://instagram.com/synthsensations), where I share AI-generated art exploring the intersection of technology and creativity.
-- 📘 Currently learning Python and diving deeper into backend technologies.
-- 💡 I’m interested in Generative AI, frontend frameworks, and building creative tools on the web.
-- 📫 Reach out to me at **synthsensations777@gmail.com** or message me on [Instagram](https://instagram.com/synthsensations).
-- 🙋‍♂️ Pronouns: He/Him  
-- 🤝 Open to collaborations, creative projects, or internships!
+- 🎨 Digital Creator on [@synthsensations](https://instagram.com/synthsensations)  
+- 💻 Currently learning **Python** and exploring **AI** and **Generative Technologies**
+- 🚀 Passionate about building modern, responsive, and scalable front-end apps
+- 📫 Email: **synthsensations777@gmail.com**
+- 🌐 Instagram: [**@synthsensations**](https://instagram.com/synthsensations)
+- 🙋‍♂️ Pronouns: **He/Him**
+- 🤝 Open to internships, collaborations, and exciting projects
 
 ---
 
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Facebook" /></a>
-  <a href="https://instagram.com/synthsensations"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" /></a>
-  <a href="mailto:synthsensations777@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="https://instagram.com/synthsensations"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
+  <a href="mailto:synthsensations777@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" /></a>
 </div>
 
 ---
