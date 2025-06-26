@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Muhammad+Talha;Front-End+Developer+%7C+Tech+Explorer;AI+Enthusiast+%7C+Python+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F97316&center=true&width=500&lines=Hi+there+👋%2C+I'm+Muhammad+Talha;Front-End+Developer+%7C+Tech+Explorer;AI+Enthusiast+%7C+Python+Learner" alt="Typing SVG" />
 </h1>
 
 <p align="center">
