@@ -52,11 +52,3 @@
 </div>
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Talha33&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="GitHub Streak" />
-</div>
-
----
