@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  A passionate <strong>Front-End Developer</strong> focused on building clean, responsive, and user-friendly web interfaces.<br />
+  A passionate <strong>Agentic AI Developer</strong> focused on building scalable AI-powered systems.<br />
   Exploring the intersection of <strong>AI</strong>, <strong>creativity</strong>, and <strong>technology</strong>.
 </p>
 
